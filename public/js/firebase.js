@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyBqQRuQvIb9QgWIz5AqYVOXJdS8WNMm8N8",
-    authDomain: "gulp-ara.firebaseapp.com",
-    databaseURL: "https://gulp-ara.firebaseio.com",
-    projectId: "gulp-ara",
-    storageBucket: "gulp-ara.appspot.com",
-    messagingSenderId: "1034641616597",
-    appId: "1:1034641616597:web:a838936f6047c160c73c5c"
+    apiKey: "AIzaSyD4_2VAduqORrVZFZbnH6O8leQ72lqtF_o",
+    authDomain: "dtc13-ara-chat.firebaseapp.com",
+    databaseURL: "https://dtc13-ara-chat.firebaseio.com",
+    projectId: "dtc13-ara-chat",
+    storageBucket: "dtc13-ara-chat.appspot.com",
+    messagingSenderId: "185600928233",
+    appId: "1:185600928233:web:5426ac3b6a12cf3a408378"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
